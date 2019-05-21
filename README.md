@@ -1,4 +1,6 @@
 # Trabalho Prático de Estrutura de Dados #
+**As  seguintes  características das cidades  serão consideradas:  nome  (string);  estado (string); população(inteiro);  IDH (float); nº médio de famílias beneficiadas pelo bolsa família (inteiro).
+O programa deve manter uma lista implementada com apontadores na qual cada elemento da lista devearmazenar um estado e seus respectivos dados. Cada estado terá também uma lista de cidades pertencentes a este estado com seus respectivos dados**
 
  ## Structs ##
 
